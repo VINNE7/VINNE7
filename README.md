@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>Marcus Vinicius Ribas Macedo!</strong>
+## 🚀🚀 Olá, meu nome é <strong>Marcus Vinicius Ribas Macedo!</strong>
 
 > Desenvolvedor front end apaixonado por tecnologia, matemática, astronomia e desenvolvimento no geral, 
 gosto de praticar esportes, e aprender coisas novas.
