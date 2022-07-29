@@ -1,0 +1,30 @@
+{
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "workbench.colorTheme": "Tokyo Night",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "COnsolas",
+    "[css]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "editor.tabSize": 2,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.fontSize": 16,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "explorer.confirmDelete": false,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "workbench.sideBar.location": "right",
+    "javascript.suggest.autoImports": false,
+    "window.zoomLevel": 1,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+}
