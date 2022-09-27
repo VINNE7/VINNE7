@@ -6,8 +6,7 @@ gosto de praticar esportes, e aprender coisas novas.
 > Busco investir meu tempo e habilidades em um trabalho recompensador que me permita evoluir profissionalmente
 e pessoalmente, financiando minhas especializações na área que amo.
 
-🔭 Curso Desenvolvimento Fullstack na Gama Academy, um NanoDegree com duração de seis meses, estou na última fase do curso, onde estamos desenvolvendo uma
-aplicação unindo as equipes de Design, Back e Front end.
+🔭 Formado em Desenvolvimento FullStack pela Gama Academy
 
 
 ----
