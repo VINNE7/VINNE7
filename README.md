@@ -1,10 +1,8 @@
 ## 🚀🚀 Olá, meu nome é <strong>Marcus Vinicius Ribas Macedo!</strong>
 
-> Desenvolvedor front end apaixonado por tecnologia, matemática, astronomia e desenvolvimento no geral, 
-gosto de praticar esportes, e aprender coisas novas.
+> Fullstack developer, passionate about tech, math, astronomy, and programming. I like to exercise and learn new things everyday.
 
-> Busco investir meu tempo e habilidades em um trabalho recompensador que me permita evoluir profissionalmente
-e pessoalmente, financiando minhas especializações na área que amo.
+> I'm currently working, improving myself everyday and trying to be the best version of myself.
 
 🔭 Formado em Desenvolvimento FullStack pela Gama Academy
 
