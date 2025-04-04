@@ -4,7 +4,7 @@
 
 > I'm currently working, improving myself everyday and trying to be the best version of myself.
 
-🔭 Formado em Desenvolvimento FullStack pela Gama Academy
+🔭 Cursando Bacharel em Ciências da Computação
 
 
 ----
