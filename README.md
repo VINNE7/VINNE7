@@ -55,7 +55,7 @@ I'm constantly learning and experimenting with:
 
 ## 📫 Let’s connect!
 
-Feel free to reach out via [LinkedIn]([https://www.linkedin.com/in/marcus-vinne/]) or explore my repositories here.  
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/marcus-vinne/) or explore my repositories here.  
 I'm always open to new challenges and innovative projects that push the limits of what tech can achieve.
 
 ---
