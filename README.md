@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Seu Nome Aqui]
+# 👋 Hi, I'm Vinicius Ribas
 
 I'm a **Fullstack Developer** passionate about software architecture, clean code and building robust, scalable applications that deliver real-world value. I have professional experience in **backend, frontend, and project management**, with a strong focus on collaborative and agile development environments.
 
